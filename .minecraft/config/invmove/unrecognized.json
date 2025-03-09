@@ -1,0 +1,8 @@
+{
+  "allowMovement": {
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+  },
+  "hideBackground": {
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+  }
+}

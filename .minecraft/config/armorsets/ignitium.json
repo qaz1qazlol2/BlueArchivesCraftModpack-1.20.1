@@ -1,0 +1,45 @@
+{
+  "armorSetName": "ignitium",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "cataclysm:ignitium_helmet",
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "cataclysm:ignitium_chestplate",
+    "mixAndMatch":[
+      "cataclysm:ignitium_chestplate",
+      "cataclysm:ignitium_elytra_chestplate"
+    ],
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "cataclysm:ignitium_leggings",
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "cataclysm:ignitium_boots",
+    "mustBeEmpty": false
+  },
+  "fullSetBonuses": [
+    {
+      "type": "effect",
+      "name": "minecraft:strength",
+      "value": 1.0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    },
+    {
+      "type": "effect",
+      "name": "minecraft:regeneration",
+      "value": 2.0,
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+}
