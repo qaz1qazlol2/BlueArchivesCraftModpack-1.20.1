@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 114514
 	#The name of the modpack
-	modpackName = "Blue Archives Craft Pro"
+	modpackName = "Blue Archives Craft Remake"
 	#The version of the modpack
-	modpackVersion = "Beta 1.0.1"
+	modpackVersion = "Beta 1.1"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
